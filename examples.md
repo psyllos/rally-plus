@@ -1,4 +1,8 @@
-# Some Query Expression examples
+---
+title: Examples | Rally Plus
+---
+
+# Examples
 
 ### Portfolio items with specific text in the name
 ```
