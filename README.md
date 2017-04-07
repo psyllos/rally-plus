@@ -5,7 +5,7 @@ _Rally Extension for  Google Chrome_
 
 This Google Chrome extension allows you to stay in sync with Rally directly from your browser!
 
-[Changelog](/changelog)
+[Changelog](changelog)
 
 ## Monitor Rally activity depending on your role
 
