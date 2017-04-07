@@ -14,7 +14,7 @@ This Google Chrome extension allows you to stay in sync with Rally directly from
 
 ## Create your own queries
 
-[See some examples](/examples)
+[See some examples](examples)
 
 ![Query Editor](/images/rally-plus-query-edit.png)
 ![Query Editor Properties](/images/rally-plus-query-edit-properties.png)
