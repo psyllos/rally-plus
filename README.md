@@ -1,14 +1,14 @@
 # Rally Plus
-_Rally Extension for Chrome_
+_Rally Extension for  Google Chrome_
 
-Chrome extension that allows to be in sync with Rally directly from your browser!
+The Google Chrome extension allows you to stay in sync with Rally directly from your browser!
 
-* Create your own queries
-* Get notified when something changes in your query results
+* Create your own queries to monitor Rally activity
+* Be notified when something changes in your query results
 
 ![Query View](/images/rally-plus.png)
 
-![Query Editor](/images/rally-plus-2.png)
+![Query Editor](/images/rally-plus-query-edit.png)
 
 
 
