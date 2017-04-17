@@ -4,6 +4,15 @@ title: Release Notes | Rally Plus
 
 # Release Notes
 
+## 0.1.38
+
+- Capture the active tab (Beta)
+- Edit the screenshot! you can add squares, ellipsis, lines, arrows & text ! (Beta)
+- Save the modified image as an attachment of an **existing** work item (no creation of work items for now :-P) (Beta)
+- Add link to this changelog
+- Add link to query examples
+- I've had fun !
+
 ## 0.1.37
 
 - Filtering in the Notifications pane (All or Current Query)
