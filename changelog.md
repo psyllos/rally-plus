@@ -4,6 +4,17 @@ title: Release Notes | Rally Plus
 
 # Release Notes
 
+## Roadmap?
+
+- Facilitate Test Runs
+- Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
+
+## 0.1.39
+
+- Fixed Font in the Capture screen
+- Keep customization during Capture session
+
+
 ## 0.1.38
 
 - Capture the active tab (Beta)
