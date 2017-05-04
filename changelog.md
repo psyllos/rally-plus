@@ -9,13 +9,17 @@ title: Release Notes | Rally Plus
 - Facilitate Test Runs
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.41
+
+- Added icon on a query item indicating count of attachments and discussion
+- A lot of code reorganization to prepare work item information (Still hidden, sorry)
+
 ## 0.1.40
 
 - Removed notifications for FlowState and TaskIndex
 - Performance improvement in retrieval of Notifications and Properties help
 - Added detail for Discussion, Attachments and History
 - Keep customization you've made in capture
-- A step forward to propose more advanced interactions in Write mode - yeah, not really a feature by itself ;-)
 
 ## 0.1.39
 
