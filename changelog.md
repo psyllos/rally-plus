@@ -36,8 +36,6 @@ title: Release Notes | Rally Plus
 - Add link to query examples
 - I've had fun !
 
-*Note: Oh sorry, last minute note: you need to click on the right of an item to open it in Rally. I know, a little bit disruptive but new opportunities are coming...*
-
 ## 0.1.37
 
 - Filtering in the Notifications pane (All or Current Query)
