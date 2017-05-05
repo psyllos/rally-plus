@@ -7,6 +7,7 @@ title: Release Notes | Rally Plus
 ## Roadmap?
 
 - Facilitate Test Runs
+- Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
 ## 0.1.41
