@@ -10,10 +10,14 @@ title: Release Notes | Rally Plus
 - Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.42
+
+- Added info for defects, epics, features, user stories & tasks (test cases still in progress)
+
 ## 0.1.41
 
 - Added icon on a query item indicating count of attachments and discussion
-- A lot of code reorganization to prepare work item information (Still hidden, sorry)
+- A lot of code reorganization to prepare work item information
 
 ## 0.1.40
 
