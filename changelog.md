@@ -11,6 +11,10 @@ title: Release Notes | Rally Plus
 - Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.43
+
+- Attachment preview when it is an image; just click on the image
+
 ## 0.1.42
 
 - Added info for defects, epics, features, user stories & tasks (test cases still in progress)
