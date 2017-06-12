@@ -11,6 +11,12 @@ title: Release Notes | Rally Plus
 - Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.45
+
+- GIF Capture!
+- Purge automatically notification history older than 15 days
+- Query optimizations
+
 ## 0.1.44
 
 - Just a technical update (dependencies on Polymer)
