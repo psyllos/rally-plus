@@ -1,5 +1,6 @@
 ---
 title: Release Notes | Rally Plus
+google_analytics_id: UA-89722563-2
 ---
 
 # Release Notes
@@ -13,7 +14,7 @@ title: Release Notes | Rally Plus
 
 ## 0.1.45
 
-- GIF Capture!
+- GIF Capture! -> Sorry but it requires more permissions...
 - Purge automatically notification history older than 15 days
 - Query optimizations
 
