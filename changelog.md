@@ -12,6 +12,15 @@ google_analytics_id: UA-89722563-2
 - Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.48
+
+- Animation when no results on the selected query - for fun only ;-)
+- Allow to create a screenshot and GIF Capture even if you've not specified a Rally API Key - the limitation is that you cannot insert it as an attachment directly from the screen.
+
+## 0.1.47
+
+- Removed all_url permission request
+
 ## 0.1.46
 
 - Fix exceeded quota when capturing in GIF
