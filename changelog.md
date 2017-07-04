@@ -12,6 +12,12 @@ google_analytics_id: UA-89722563-2
 - Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.49
+
+- Redesign of the Query Results page
+- Performance improvements (for the technical guys: usage of web workers)
+- Polymer dependencies upgrade
+
 ## 0.1.48
 
 - Animation when no results on the selected query - for fun only ;-)
