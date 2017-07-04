@@ -10,6 +10,7 @@ google_analytics_id: UA-89722563-2
 - Facilitate Test Runs
 - Wizard to create a new query
 - Notifications to an [IFTTT Maker Webhooks](https://ifttt.com/maker_webhooks)
+- Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
 ## 0.1.49
