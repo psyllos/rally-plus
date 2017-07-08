@@ -13,7 +13,7 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
-## 0.1.50
+## 0.1.50-51
 
 - Added Test Sets (only in query/query results - detail for Test Sets coming later)
 - Detail for Test Cases in progress
