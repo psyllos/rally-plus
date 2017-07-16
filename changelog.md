@@ -13,6 +13,11 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.52
+
+- Post a message in dicussion from the detail screen
+- Add an attachment from the detail screen
+
 ## 0.1.50-51
 
 - Added Test Sets (only in query/query results - detail for Test Sets coming later)
