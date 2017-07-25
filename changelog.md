@@ -13,6 +13,12 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.53
+
+Clipboard ! (request new permission)
+- Copy items in the clipboard
+- Detect items in the Clipboard and allow to view them
+
 ## 0.1.52
 
 - Post a message in dicussion from the detail screen
