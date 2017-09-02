@@ -13,6 +13,10 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.54
+
+- Excel Export
+
 ## 0.1.53
 
 Clipboard ! (request new permission)
