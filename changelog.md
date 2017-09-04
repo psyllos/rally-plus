@@ -13,6 +13,17 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.55
+
+- Reorganize queries by drag and drop
+- Duplicate an existing query
+- Optional permission to access the Clipboard (disable permission in the Options page)
+- Retrieve items from the current page (active tab when you click the extension icon)
+- Improved items detection from the Clipboard or the Active Page
+- View work item statuses in Clipboard items and Active Page items
+- Export in Excel items from the Clipboard and the Active Page items
+- Fixed bug on pasting values in the query editor and the search field
+
 ## 0.1.54
 
 - Excel Export
