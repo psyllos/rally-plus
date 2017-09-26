@@ -13,6 +13,11 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.56
+
+- Returns Active Page items and Clipboard items in the correct order (keep duplicates)
+- Fixed issue in the badges positioning for Clipboard or the Active Page counts
+
 ## 0.1.55
 
 - Reorganize queries by drag and drop
