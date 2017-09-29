@@ -13,6 +13,13 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.57
+
+- Query Results: count of test cases and tasks - release for test sets
+- Query Results: fixed issue on displaying Owner.
+- Detail screen: test cases and tasks
+- Detail screen: navigation to another detail screen from a detail screen.
+
 ## 0.1.56
 
 - Returns Active Page items and Clipboard items in the correct order (keep duplicates)
