@@ -17,7 +17,7 @@ google_analytics_id: UA-89722563-2
 
 - Fixed issue on query edition (random issue in dropdown control)
 - Added Test Case Results information in query results and detail screen
-- Added Test Sets information in auery results and detail screen
+- Added Test Sets information in query results and detail screen
 - Open detail screen from search results
 - Query edit allows to determine if groups should be collapsed by default
 - Children information in detail screen
