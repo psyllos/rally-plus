@@ -13,6 +13,16 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.58
+
+- Fixed issue on query edition (random issue in dropdown control)
+- Added Test Case Results information in query results and detail screen
+- Added Test Sets information in auery results and detail screen
+- Open detail screen from search results
+- Query edit allows to determine if groups should be collapsed by default
+- Children information in detail screen
+- Navigation in the detail screen based on the originating list
+
 ## 0.1.57
 
 - Query Results: count of test cases and tasks - release for test sets
