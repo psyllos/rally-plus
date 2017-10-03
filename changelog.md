@@ -20,7 +20,7 @@ google_analytics_id: UA-89722563-2
 - Added Test Sets information in query results and detail screen
 - Open detail screen from search results
 - Query edit allows to determine if groups should be collapsed by default
-- Children information in detail screen
+- Children information in the detail screen
 - Navigation in the detail screen based on the originating list
 
 ## 0.1.57
