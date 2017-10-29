@@ -13,6 +13,12 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.59
+
+- Added query for Change sets
+- Added change sets detail
+- Added chnage sets associated to work items
+
 ## 0.1.58
 
 - Fixed issue on query edition (random issue in dropdown control)
