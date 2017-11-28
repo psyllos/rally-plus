@@ -18,6 +18,7 @@ google_analytics_id: UA-89722563-2
 - Increased max query results to 200
 - Aggregation type and field on query edit (count, sum and average)
 - Doughnut vizualisation of the grouped query results 
+- Performance improvements
 - Minor cosmetic fixes
 
 ## 0.1.59
