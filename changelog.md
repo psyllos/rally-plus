@@ -13,6 +13,13 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.60
+
+- Increased max query results to 200
+- Aggregation type and field on query edit (count, sum and average)
+- Doughnut vizualisation of the grouped query results 
+- Minor cosmetic fixes
+
 ## 0.1.59
 
 - Added query for Change sets
