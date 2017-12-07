@@ -13,11 +13,12 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
-## 0.1.61 & 0.1.62
+## 0.1.61 & 0.1.62 & 0.1.63
 
 - Bar chart visualization
 - Performance improvements (fix issue related to the storage of notifications)
 - Save charts as image
+- Versions are due to my own mistakes... :-/
 
 ## 0.1.60
 
