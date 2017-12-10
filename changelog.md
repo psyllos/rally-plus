@@ -13,6 +13,11 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+## 0.1.64
+
+- Change status from query results (task, defect and user story)
+- Fix axis issue in horizontal bar
+
 ## 0.1.61 & 0.1.62 & 0.1.63
 
 - Bar chart visualization
