@@ -13,6 +13,13 @@ google_analytics_id: UA-89722563-2
 - Settings in Chrome Sync
 - Give me some ideas [here](https://groups.google.com/forum/#!forum/rally-plus)
 
+
+## 0.1.66
+
+- Select columns to export in Excel export
+- List User Stories from the Feature detail screen
+- Minor UI changes
+
 ## 0.1.65
 
 - Aggregation value in Excel export
